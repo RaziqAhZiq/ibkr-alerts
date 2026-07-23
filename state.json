@@ -1,0 +1,79 @@
+{
+  "VWRA": {
+    "rsi": 41.7,
+    "crossover": "golden",
+    "close": 185.7,
+    "ma50": 188.1212,
+    "ma200": 175.711
+  },
+  "ES3": {
+    "rsi": 74.49,
+    "crossover": "golden",
+    "close": 5.67,
+    "ma50": 5.2934,
+    "ma200": 4.9181
+  },
+  "QTUM": {
+    "rsi": 39.94,
+    "crossover": "golden",
+    "close": 143.51,
+    "ma50": 154.7318,
+    "ma200": 125.0817
+  },
+  "IONQ": {
+    "rsi": 27.5,
+    "crossover": "golden",
+    "close": 34.1,
+    "ma50": 52.893,
+    "ma200": 47.5765
+  },
+  "QBTS": {
+    "rsi": 35.06,
+    "crossover": "death",
+    "close": 17.115,
+    "ma50": 22.8729,
+    "ma200": 23.6849
+  },
+  "NVDA": {
+    "rsi": 52.88,
+    "crossover": "golden",
+    "close": 208.71,
+    "ma50": 209.4622,
+    "ma200": 192.8001
+  },
+  "ALAB": {
+    "rsi": 43.86,
+    "crossover": "golden",
+    "close": 327.18,
+    "ma50": 348.3036,
+    "ma200": 205.5213
+  },
+  "PANW": {
+    "rsi": 51.24,
+    "crossover": "golden",
+    "close": 325.72,
+    "ma50": 294.8794,
+    "ma200": 211.0455
+  },
+  "CRWD": {
+    "rsi": 47.31,
+    "crossover": "golden",
+    "close": 183.43,
+    "ma50": 176.9782,
+    "ma200": 130.8995
+  },
+  "TSLA": {
+    "rsi": 29.05,
+    "crossover": "death",
+    "close": 319.37,
+    "ma50": 404.96,
+    "ma200": 415.4075
+  },
+  "SYM": {
+    "rsi": 42.56,
+    "crossover": "death",
+    "close": 40.54,
+    "ma50": 44.5966,
+    "ma200": 56.8707
+  }
+}
